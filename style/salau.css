@@ -1,0 +1,165 @@
+* {
+    /* border: 1px solid red !important; */
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(84, 82, 82);
+    line-height: 30px;
+}
+.nav-row {
+    background-color: rgb(243, 237, 237);
+    box-shadow: 2px 2px 5px #ccc;
+    border-bottom: 1px solid white;
+}
+#logo2 a {
+    padding-left: 16px;
+    padding-right: 16px;
+    color: rgb(84, 82, 82);
+    font-size: 25px;
+    font-family: 'Chicle', cursive;
+    /* font-weight: bolder; */
+}
+#logo2 a:hover {
+    text-decoration: none;
+    color: rgb(123, 117, 117);
+    box-shadow: 5px 5px 5px #ccc;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(84, 82, 82);
+}
+li a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(84, 82, 82);
+}
+.div-slider {
+    margin-top: 100px;
+}
+.div-slider:hover {
+    opacity: 0.8;
+}
+#about {
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+#contact {
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+#a4 {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#m4 {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#s4 {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.div-s4 {
+    border: 1px solid rgb(243, 237, 237);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+.div-uxui {
+    border: 1px solid rgb(243, 237, 237);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+.div-code {
+    border: 1px solid rgb(243, 237, 237);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+#uxui {
+    font-weight: bolder;
+    text-transform: uppercase; 
+}
+#c4 {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#code {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.row-about-me {
+    margin: 100px 0px 100px 0px;
+}
+.div-my-expertise {
+    margin-bottom: 20px; 
+    background-color: rgb(243, 237, 237);
+    box-shadow: 5px 5px 5px #ccc;
+}
+.row-suc {
+    margin-bottom: 100px;
+}
+.row-gitwm {
+    margin-bottom: 100px;
+}
+.footer-fluid {
+    background-color: rgb(243, 237, 237);
+    border-top: 1px solid rgb(194, 192, 192);
+}
+.row-footer {
+    margin: 30px 0px 30px 0px; 
+}
+.row-footer i a {
+    color: rgb(84, 82, 82);
+}
+.row-footer i a:hover {
+    color: rgb(65, 162, 65);
+    text-decoration: none;
+}
+.social-icons a i {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#salau {
+    color: rgb(84, 82, 82);
+    font-family: 'Chicle', cursive; 
+    font-size: 18px;
+}
+#salau:hover {
+    text-decoration: none;
+    color: rgb(65, 162, 65);
+}
+.copy-right {
+    margin-bottom: 30px;
+}
+.div-hire {
+    background-color: #FED766;
+    width: auto;
+    height: 230px;
+    margin-top: 30px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left: 2px solid rgb(84, 82, 82); 
+    box-shadow: 5px 5px 5px #ccc;
+}
+h2 {
+    text-decoration-line: underline;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+kbd {
+    text-transform: capitalize;
+}
